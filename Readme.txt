@@ -6,8 +6,9 @@ This repository contains my Python projects.
 - File: `Rock_paper_scissor.py`
 - Run with:
   ```bash
+  Rock_paper_scissor.py
 ---------------------------------------
-  # Random_password_Generator 
+## Random_password_Generator 
 - File: 'Mini_Project.py`
 - Run with:
   ```bash
